@@ -1,3 +1,3 @@
 # Token-System
-after cloning the repo 
-direct your to Token.aspx file to view the token validating system.
+After cloning the repo, 
+direct your url to "Token.aspx" file to view the token validating system.
